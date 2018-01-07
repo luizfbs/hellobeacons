@@ -1,6 +1,6 @@
 {
   "name": "HelloBeacons",
-  "app_id": "",
+  "app_id": "828f1af8",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
